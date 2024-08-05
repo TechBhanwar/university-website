@@ -1,0 +1,35 @@
+@media screen and (max-width: 480px) {
+
+
+.cato{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.cato ul li{
+    flex: 1 1 50%;
+   
+}
+
+.abc{
+    margin-bottom: 20px;
+}
+
+
+#immbox .bx {
+    flex: 1 1 100%; /* 100% width for each image, flex-grow, flex-shrink, flex-basis */
+    max-width: 100%;
+}
+.bx img{
+    width: 100%;
+    height: 100%;
+}
+.stil{
+    font-size: 38px;
+
+}
+.footer4{
+    margin-bottom: 10px;
+}
+
+}
