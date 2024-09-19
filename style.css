@@ -750,6 +750,9 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 }
 .event1 .card-text small{
     color: white !important;
+} 
+.event1:hover .card-text small{
+    color: #0C0E2B !important;
 }
 #test{
     padding: 40px 50px 50px 40px;
